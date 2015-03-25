@@ -561,7 +561,9 @@ The theme Neopolitan was created by [daytonn](https://github.com/daytonn/iTerm2-
 
 The themes Solarized Dark and Solarized Light come from the official [Solarized web site](http://ethanschoonover.com/solarized)
 
-The themes Obsidian and Spacedust were on my hard drive and I don't recall where they came from. If anyone knows, ping me and I'll link back to the authors.
+The Obsidian theme was on my hard drive and I don't recall where it came from. If anyone knows, ping me and I'll link back to the author(s).
+
+The Spacedust theme was created by [mhallendal](https://github.com/mhallendal/spacedust-theme) and ported to iTerm by [Couto](https://github.com/Couto)
 
 The theme Mathias was created by [mathiasbynens](https://github.com/mathiasbynens/dotfiles)
 
